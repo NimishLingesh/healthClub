@@ -1,7 +1,7 @@
 # SharkHealth - Team DSNG
 
 
-![weightlifter](https://github.com/gopinathsjsu/team-project-dsng/assets/15967217/2c28578e-fb00-4b31-919d-d51826928552)
+![weightlifter](https://github.com/NimishLingesh/healthClub/assets/15967217/2c28578e-fb00-4b31-919d-d51826928552)
 
 
 
@@ -98,7 +98,7 @@ https://docs.google.com/presentation/d/1ejsP-UyTWeh9Qb_JU1z0DFQohwOpRttyzEvK7obA
 **Use Case Diagram**
 
 
-<img width="470" alt="Screen Shot 2023-05-12 at 3 07 13 PM" src="https://github.com/gopinathsjsu/team-project-dsng/assets/15967217/ad7240ed-3e54-4185-aaac-44b1774f9703">
+<img width="470" alt="Screen Shot 2023-05-12 at 3 07 13 PM" src="https://github.com/NimishLingesh/healthClub/assets/15967217/ad7240ed-3e54-4185-aaac-44b1774f9703">
 
 
 
@@ -106,7 +106,7 @@ https://docs.google.com/presentation/d/1ejsP-UyTWeh9Qb_JU1z0DFQohwOpRttyzEvK7obA
 **Component Diagram**
 
 
-<img width="722" alt="Screen Shot 2023-05-12 at 3 17 51 PM" src="https://github.com/gopinathsjsu/team-project-dsng/assets/15967217/349503e2-98b2-4645-870c-65ad4935c114">
+<img width="722" alt="Screen Shot 2023-05-12 at 3 17 51 PM" src="https://github.com/NimishLingesh/healthClub/assets/15967217/349503e2-98b2-4645-870c-65ad4935c114">
 
 
 
@@ -120,7 +120,7 @@ https://docs.google.com/presentation/d/1ejsP-UyTWeh9Qb_JU1z0DFQohwOpRttyzEvK7obA
 **Deployment Diagram**
 
 
-<img width="655" alt="Screen Shot 2023-05-12 at 3 20 25 PM" src="https://github.com/gopinathsjsu/team-project-dsng/assets/15967217/4786f463-a701-4de2-a668-7d83f2dcdc26">
+<img width="655" alt="Screen Shot 2023-05-12 at 3 20 25 PM" src="https://github.com/NimishLingesh/healthClub/assets/15967217/4786f463-a701-4de2-a668-7d83f2dcdc26">
 
 
 
@@ -129,7 +129,7 @@ https://docs.google.com/presentation/d/1ejsP-UyTWeh9Qb_JU1z0DFQohwOpRttyzEvK7obA
 
 ## **Database Design**
 
-<img width="1049" alt="ER diagram" src="https://github.com/gopinathsjsu/team-project-dsng/blob/main/Project_Journal/ER_diagram.png">
+<img width="1049" alt="ER diagram" src="https://github.com/NimishLingesh/healthClub/blob/main/Project_Journal/ER_diagram.png">
 
 
 
